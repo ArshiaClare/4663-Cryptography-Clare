@@ -25,7 +25,8 @@ After some letters were identified, it was easier to decipher two and three lett
 ![ciphertext1_work](https://user-images.githubusercontent.com/35582387/92430607-f059f780-f15a-11ea-8c72-17d48671d226.jpg)
 
 ### Cipher text 2 work
-https://mail.google.com/mail/u/1?ui=2&ik=a2721de4fd&attid=0.1&permmsgid=msg-f:1677279633261469255&th=1746e4f0998c1e47&view=att&disp=safe
+![ciphertext2_work](https://user-images.githubusercontent.com/35582387/92496298-963e4e00-f1bd-11ea-90a8-032853b53729.jpg)
+
 
 ### Help material
 https://www3.nd.edu/~busiforc/handouts/cryptography/cryptography%20hints.html#:~:text=The%20most%20common%20two%2Dletter,words%20are%20the%20and%20and
