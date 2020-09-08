@@ -1,2 +1,29 @@
 ### Cipher text 1 work
 ![ciphertext1_work](https://user-images.githubusercontent.com/35582387/92430607-f059f780-f15a-11ea-8c72-17d48671d226.jpg)
+# The frequency pulled from the provided code
+l:165
+c:126
+i:102
+u:92
+f:80
+e:79
+g:77
+o:68
+m:58
+b:43
+k:42
+j:31
+a:28
+q:28
+s:27
+r:24
+t:21
+d:15
+y:14
+h:13
+w:10
+x:3
+n:1
+p:0
+v:0
+z:0
