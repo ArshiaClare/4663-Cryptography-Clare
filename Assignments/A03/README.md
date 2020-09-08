@@ -14,3 +14,9 @@ Second encrypted text had the first two highest frequency letters matched the gr
 |   3   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/CT2_work.md||
 |   4   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/decrypted_1.txt||
 |   5   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/decrypted_2.txt||
+
+### Cipher text 1 work
+![ciphertext1_work](https://user-images.githubusercontent.com/35582387/92430607-f059f780-f15a-11ea-8c72-17d48671d226.jpg)
+
+### Cipher text 2 work
+![ciphertext2_work](https://user-images.githubusercontent.com/35582387/92430628-fa7bf600-f15a-11ea-83be-126aa0fd3125.jpg)
