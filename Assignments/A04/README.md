@@ -29,9 +29,7 @@ Read message back out from
 | :---: | -------------------------- | ---------------------------------------------------------- |
 |adfgx.py| https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/adfgx.py | the main program that contains the classes: ADFGXdecrypt, ADFGXencrpt |
 |.replit|https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/.replit| running the program |
-| :---: | -------------------------- | ---------------------------------------------------------- |
 |   name   | Folder                       | Description                                           |
-| :---: | -------------------------- | ---------------------------------------------------------- |
 |input1|https://github.com/ArshiaClare/4663-Cryptography-Clare/tree/master/Assignments/A04/input1 | input folder contains input and output (encryption) |
 |   name   | File                       | Description                                                |
 |inputTextEnc.txt | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/input1/inputTextEnc | just a random string |
