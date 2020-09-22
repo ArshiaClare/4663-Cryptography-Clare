@@ -40,7 +40,11 @@ Read message back out from
 #### Instructions
 - This project was complied using python
 - You need specify input, output, operation (decrypt or encrypt). keyword 1 to create the polybius square, keyword 2
+- If the plain text message contains j it will be considered as i 
 
 #### Sources
 https://github.com/rugbyprof/4663-Cryptography/tree/master/Assignments/A04 
+https://www.w3schools.com/python/python_ref_list.asp
+https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-way/
+https://www.geeksforgeeks.org/python-ways-to-create-a-dictionary-of-lists/
 Starter code
