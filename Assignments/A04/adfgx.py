@@ -2,7 +2,7 @@ import sys
 import os
 import math
 
-#encrpt 
+#decrypt 
 class ADFGXdecrypt:
   def __init__(self,k=None, ct = None):
     self.key = self.remove_duplicates(k)
@@ -489,6 +489,8 @@ class ADFGXencrypt:
       for i in plain_text:
         if i not in self.alphabet:
           continue
+        elif i == 'j':
+          plain += 'i'
         else:
           plain += i
       # print(plain,"filter_plain_text")
@@ -599,6 +601,7 @@ class ADFGXencrypt:
       self.keyword_2(keyw2)
       return self.print_decipher()
 
+# takes ADFGX variables and changes to plain normal text
 def ADFGX_cipher_decrypt(**kwargs):
     input_file = kwargs.get('input',None)
     output_file = kwargs.get('output',None)
@@ -616,6 +619,7 @@ def ADFGX_cipher_decrypt(**kwargs):
     with open(output_file,'w') as f:
         f.write(ciphertext)
 
+# takes plain normal text and changes to ADFGX variables
 def ADFGX_cipher_encrypt(**kwargs):
     input_file = kwargs.get('input',None)
     output_file = kwargs.get('output',None)
@@ -634,23 +638,6 @@ def ADFGX_cipher_encrypt(**kwargs):
         f.write(ciphertext)
 
 def mykwargs(argv):
-    '''
-    Processes argv list into plain args (list) and kwargs (dict).
-    Just easier than using a library like argparse for small things.
-    Example:
-        python file.py arg1 arg2 arg3=val1 arg4=val2 -arg5 -arg6 --arg7
-        Would create:
-            args[arg1, arg2, -arg5, -arg6, --arg7]
-            kargs{arg3 : val1, arg4 : val2}
-
-        Params with dashes (flags) can now be processed seperately
-    Shortfalls:
-        spaces between k=v would result in bad params
-        Flags aren't handled at all. Maybe in the future but this function
-            is meant to be simple.
-    Returns:
-        tuple  (args,kargs)
-    '''
     args = []
     kargs = {}
 
@@ -668,6 +655,7 @@ def usage(message=None):
         print(message)
     name = os.path.basename(__file__)
     print(f"Usage: python {name} [input=string filename] [output=string filename] [key=string] [key2=string] [op=encrypt/decrypt]")
+    
     # print(f"Example:\n\t python {name} input=input_file.txt output=output_file.txt key=machine op=encrypt\n")
     sys.exit()
 
@@ -696,3 +684,4 @@ if __name__=='__main__':
         ADFGX_cipher_decrypt(**params)
     else:
         usage()
+    print("if the message has the letter j it is considered as i")
