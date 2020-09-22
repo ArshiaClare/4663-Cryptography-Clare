@@ -39,7 +39,7 @@ class ADFGXdecrypt:
 
         """
         newkey = []             # create a list for letters
-        for i in key:           # loop through key
+        for i in key.lower():           # loop through key
             if not i in newkey: # skip duplicates
                 newkey.append(i)
         
@@ -420,7 +420,7 @@ class ADFGXencrypt:
     #function to avoid duplicates in keyword
     def remove_duplicates(self,key):
         newkey = []             # create a list for letters
-        for i in key:           # loop through key
+        for i in key.lower():           # loop through key
             if not i in newkey: # skip duplicates
                 newkey.append(i)
         
