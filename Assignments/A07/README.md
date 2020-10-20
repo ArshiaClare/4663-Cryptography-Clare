@@ -5,5 +5,4 @@
     a^((2^i)q) is not congruent to -1(mod n) for all i in the range of 0 to k-1
   Error:
 ### Elliptic Curve Primality test
-  So theorem states: Let n>1 be a natural number and there exists an element a in Z/nZ, s > 0 such that a^s = 1 is satisfied. We can write a^(s/q)-1 is in (Z/nZ)* for every prime divisor q of s. Then any prime that divides n is congruent to 1(mod s)
-  
+  So theorem states: Let n>1 be a natural number and there exists an element a in Z/nZ, s > 0 such that a^s = 1 is satisfied. We can write a^(s/q)-1 is in (Z/nZ)* for every prime divisor q of s. Then any prime that divides n is congruent to 1(mod s). Thus if s > sqrt(n), then n is a prime number.
