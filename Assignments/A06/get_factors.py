@@ -1,4 +1,3 @@
-```
 import sys
 import os
 import math
@@ -143,4 +142,3 @@ if __name__=='__main__':
     usage()
   
   prime_read(**params)
-  ```
