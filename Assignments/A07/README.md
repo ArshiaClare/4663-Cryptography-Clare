@@ -11,4 +11,4 @@
 - quick to generate for small numbers compared to other primality certificates
 - n, positive integer
 - p_i, set of prime factors of n-1
-- There exists an int, x, that is the witness, such that pow(x,(n-1))
+- There exists an int, x, that is the witness, such that {x^n-1)}
