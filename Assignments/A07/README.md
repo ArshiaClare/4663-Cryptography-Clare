@@ -36,3 +36,6 @@ Steps:
 - perform a Miller-Rabin test, on base 2, N
 - perform a Lucas-Selfridge test on N
 https://faculty.lynchburg.edu/~nicely/misc/bpsw.html
+
+
+Not completed.... Still understanding the concept of some. :)
