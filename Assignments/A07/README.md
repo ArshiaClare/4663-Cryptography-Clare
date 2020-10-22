@@ -6,3 +6,9 @@
   Error:
 ### Elliptic Curve Primality test
   So theorem states: Let n>1 be a natural number and there exists an element a in Z/nZ, s > 0 such that a^s = 1 is satisfied. We can write a^(s/q)-1 is in (Z/nZ)* for every prime divisor q of s. Then any prime that divides n is congruent to 1(mod s). Thus if s > sqrt(n), then n is a prime number.
+### Pratt Certificate
+- based on Fermat's little theorem converse
+- quick to generate for small numbers compared to other primality certificates
+- n, positive integer
+- p_i, set of prime factors of n-1
+- There exists an int, x, that is the witness, such that pow(x,(n-1))
