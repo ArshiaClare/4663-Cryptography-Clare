@@ -19,7 +19,8 @@ Let a = 7918/2, b = 7918/37, c= 7918/107, and we see 7^a, 7^b, 7^c are not congr
 2 is a self-witness (prime without question) and rest are shown in a nested tree.
 https://mathworld.wolfram.com/PrattCertificate.html
 ### Solovay-Strassen Test
-
+- based on Euler's criterion
+- 
 ### Pocklington- Theorem
 - certification/deterministic
 Let n - 1 =FR, F is the factored part of a number.
@@ -36,6 +37,11 @@ Steps:
 - perform a Miller-Rabin test, on base 2, N
 - perform a Lucas-Selfridge test on N
 https://faculty.lynchburg.edu/~nicely/misc/bpsw.html
-
+### Adelman-Pomerance-Rumely
+- Deterministic
+- Modification of the Miller Primality Test: guarantee 
+- it avoids use of random numbers
+- 
+### Goldwasser-Kilian
 
 Not completed.... Still understanding the concept of some. :)
