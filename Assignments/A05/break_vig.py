@@ -300,7 +300,7 @@ def usage(message=None):
     sys.exit()
 
 if __name__=='__main__':
-  required_params = 3
+  required_params = 2
   
   _,params = mykwargs(sys.argv[1:])
 
@@ -314,7 +314,4 @@ if __name__=='__main__':
   if not operation and not infile and not outfile:
     usage()
 
-  if operation.lower() == 'decrypt':
-    vigenere_cipher_decrypt(**params)
-  else:
-    usage()
+  vigenere_cipher_decrypt(**params)
