@@ -1,0 +1,5 @@
+Name: Arshia Clare
+Number 1: 542 - Factors: 2 * 271
+Number 2: 500 - Factors: 2 * 2 * 5 * 5 * 5
+Number 3: 6 - Factors: 2 * 3
+Number 4: 981 - Factors: 3 * 3 * 109
