@@ -1,0 +1,6 @@
+Name: Arshia Clare
+Number 1: 1999 - Prime
+Number 2: 39 - Factors: 3 * 13
+Number 3: 57 - Factors: 3 * 19
+Number 4: 3 - Prime
+Number 5: 29 - Prime
