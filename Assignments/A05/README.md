@@ -23,8 +23,20 @@ python3 break_vig.py input=encrypted
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   |||
-|   2   |||
-|   3   |||
-|   4   |||
-|   5   |||
+|   1   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A05/.replit|.replit (to run the program|
+|   2   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A05/break_vig.py| main program that performs the task to find the key length, keyword, and decrypted message|
+|   3   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A05/encrypted1.txt|input 1|
+|   4  |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A05/decrypted1.txt|output 1 with the keyword "abolitionising"|
+|   5   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A05/encrypted2.txt|input 2|
+|   6   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A05/decrypted2.txt| output 2 with the keyword "aahed"|
+|   7   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A05/words.txt|the list of words |
+
+# Sources
+https://cryptii.com/pipes/vigenere-cipher
+https://www.w3schools.com/python/python_dictionaries.asp
+https://www.w3schools.com/python/python_lists.asp
+http://practicalcryptography.com/cryptanalysis/text-characterisation/index-coincidence/
+http://practicalcryptography.com/cryptanalysis/stochastic-searching/cryptanalysis-vigenere-cipher/
+Methods for dictionary, list, etc.
+Codes provided by Dr.Griffin
+
