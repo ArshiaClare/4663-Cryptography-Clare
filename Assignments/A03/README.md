@@ -15,11 +15,11 @@ After some letters were identified, it was easier to decipher two and three lett
 
 |   #   | File                       | Description  |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/frequency_code.txt | Code given in the assignment, modified for reading in the text file|
-|   2   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/CT1_frequency.txt|how many times each letter occurred in the ciphertext_1|
-|   3   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/CT2_frequency.txt|how many times each letter occurred in the ciphertext_2|
-|   4   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/decrypted_1.txt|decrypted text from ciphertext_1|
-|   5   |https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/decrypted_2.txt|decrypted text from ciphertext_2|
+|   1   |[frequency_code.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/frequency_code.txt)| Code given in the assignment, modified for reading in the text file|
+|   2   |[CT1_frequency.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/CT1_frequency.txt)|how many times each letter occurred in the ciphertext_1|
+|   3   |[CT2_frequency.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/CT2_frequency.txt)|how many times each letter occurred in the ciphertext_2|
+|   4   |[decrypted_1.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/decrypted_1.txt)|decrypted text from ciphertext_1|
+|   5   |[decrypted_2.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A03/decrypted_2.txt)|decrypted text from ciphertext_2|
 
 ### Cipher text 1 work
 ![ciphertext1_work](https://user-images.githubusercontent.com/35582387/92430607-f059f780-f15a-11ea-8c72-17d48671d226.jpg)
