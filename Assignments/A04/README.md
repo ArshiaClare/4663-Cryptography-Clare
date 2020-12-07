@@ -27,13 +27,13 @@ Read message back out from
 #### Files
 |   name   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|adfgx.py| https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/adfgx.py | the main program that contains the classes: ADFGXdecrypt, ADFGXencrpt |
-|.replit|https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/.replit| running the program |
+|adfgx.py|[adfgx.py](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/adfgx.py) | the main program that contains the classes: ADFGXdecrypt, ADFGXencrpt |
+|.replit|[.replit](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/.replit)| running the program |
 |   name   | Folder                       | Description                                           |
-|input1|https://github.com/ArshiaClare/4663-Cryptography-Clare/tree/master/Assignments/A04/input1 | input folder contains input and output (encryption) |
+|input1|[input1](https://github.com/ArshiaClare/4663-Cryptography-Clare/tree/master/Assignments/A04/input1)| input folder contains input and output (encryption) |
 |   name   | File                       | Description                                                |
-|inputTextEnc.txt | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/input1/inputTextEnc | just a random string |
-|encrypted.txt | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/input1/encrypted.txt | the output|
+|inputTextEnc.txt |[inputTextEnc](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/input1/inputTextEnc)| just a random string |
+|encrypted.txt |[encrypted.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A04/input1/encrypted.txt)| the output|
 
 
 
