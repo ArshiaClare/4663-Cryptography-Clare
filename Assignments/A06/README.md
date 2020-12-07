@@ -14,11 +14,11 @@ run = "python3 get_factors.py input=in output=out"
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/.replit| run the program with|
-|   2   | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/get_factors.py | main program|
-|   3   | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/in.txt| input 1|
-|   4   | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/output.txt|output 1|
-|   5   | https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/in2.txt |input 2|
-|6|https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/out2.txt|output 2|
-|7|https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/in3.txt|input 3|
-|8|https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/out3.txt|output 3|
+|   1   | [.replit](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/.replit)| run the program with|
+|   2   | [get_factors.py](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/get_factors.py)| main program|
+|   3   | [in.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/in.txt)| input 1|
+|   4   | [output.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/output.txt)|output 1|
+|   5   | [in2.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/in2.txt)|input 2|
+|6|[out2.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/out2.txt)|output 2|
+|7|[in3.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/in3.txt)|input 3|
+|8|[out3.txt](https://github.com/ArshiaClare/4663-Cryptography-Clare/blob/master/Assignments/A06/out3.txt)|output 3|
